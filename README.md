@@ -9,7 +9,11 @@ Data Modeling
 
 I created the following ERD
 
-![image](https://github.com/meehal0203/sql-challenge/assets/146681542/277532cb-74d1-4059-9bcc-ccfb7bba8466)
+
+![image](https://github.com/meehal0203/sql-challenge/assets/146681542/3b14867d-6bbe-4142-8758-2599c3927a44)
+
+
+
 
 
 
